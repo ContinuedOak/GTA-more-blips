@@ -24,4 +24,6 @@ Focusing on lore and RP, this script is perfect for those who play LSPDFR or jus
 - Cluckin' Bell (food)
 - Prison (poi)
 
-# A Five-M script is planned but due to lack of playing on Five-M, it may be some time before I attempt to convert this script over!
+# Planned Features
+- A Five-M script is planned but due to lack of playing on Five-M, it may be some time before I attempt to convert this script over!
+- a custom .ini file to toggle on and off blips you don't want to show.
