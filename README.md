@@ -14,15 +14,16 @@ Focusing on lore and RP, this script is perfect for those who play LSPDFR or jus
 - Hospitals
 - Police Station
 - Fire Station
+- Stores (24/7)
+- Prison (poi)
+- Epiloson
 
 # Planned Blips
-- Stores (24/7)
 - Weed Farm (poi)
 - Casino (poi)
 - Army Base (poi)
 - BurgerShot (food)
 - Cluckin' Bell (food)
-- Prison (poi)
 
 # Planned Features
 - A Five-M script is planned but due to lack of playing on Five-M, it may be some time before I attempt to convert this script over!
